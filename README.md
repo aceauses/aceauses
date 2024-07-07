@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hello, I'm Alex 👋</h1> <p align="center"> <strong>Passionate Software Developer | Back-end Developer</strong> </p> <p align="center">
 
 ## 🚀 Current Projects
