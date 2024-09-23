@@ -2,8 +2,9 @@
 
 ## 🚀 Current Projects
 
-- 📡 **ft_irc**: Custom IRC server (C++) 
-- 🤖 **Adminium**: Discord server manager 
+- 📡 **CPP_MODULES**: (C++) 
+- 🤖 **Adminium**: Discord server manager
+- **Vastoria Project**: A minecraft RPG plugin
   
 
 ## 💻 Tech Stack
